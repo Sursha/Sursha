@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 Lets code and learn together!
 
 <!--
 **Sursha/Sursha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- > **"Learn, Create & Grow"** -->
+
+I wish to use this platform to collaborate with techies to learn & build a portfolio around machine learning & artificial intelligence
+
+- Creation of projects around:
+  - Data Engineering
+  - Machine Learning models
+    
+- A repository for AL & ML resources/ research papers
