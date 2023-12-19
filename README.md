@@ -21,7 +21,7 @@ I wish to use this platform to collaborate with techies to learn & build a portf
 - ☑️ Collection of reading material or research papers
 - 📌 Discussions on stats & math around AI & ML foundation models
 
-💬 You can ask me about building cloud data platforms and deep diving into the ETL processes for the end-to-end solutions.
+💬 You can ask me about building cloud data platforms and deep diving into the ETL processes for the end-to-end data solutions.
   
 We can connect over
 
